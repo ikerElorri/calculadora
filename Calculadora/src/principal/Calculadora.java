@@ -31,7 +31,7 @@ public class Calculadora{
                 resultado = operaciones.resto(operandos[0], operandos[1]);
                 System.out.println ("Resultado: " + resultado);
             } else {
-                System.out.println ("Operación no válida");
+                System.out.println ("Operaciï¿½n no vï¿½lida");
             }
         }   while (menu.repetir());
     }
